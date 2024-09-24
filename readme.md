@@ -1,0 +1,1 @@
+Esta actividad es una actividad introductoria para aprender a usar GIT, sencilla y básica 
